@@ -9,6 +9,7 @@ color: rgb(255, 0, 242);
 }
 section{
     display:flex ;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
